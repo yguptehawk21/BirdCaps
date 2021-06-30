@@ -1,0 +1,20 @@
+CS577 - Project
+
+Team members:
+Yash Pradeep Gupte
+Namita Sandeep Tambe
+
+DATA files
+
+1. CUB 200-2011 Data link -
+	http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
+
+2. Required information about CUB 200-2011 dataset - birds.zip
+	https://drive.google.com/open?id=0B3y_msrWZaXLT1BZdVdycDY5TEE
+
+3. Combined Train and Test dataset - total 5172 images
+	https://drive.google.com/file/d/1noZ6aKI8tQyecgLYUFbRWtut4mwNAvpS/view?usp=sharing
+
+4. Final Augmented dataset with Class labels 0 to 14 - We have used this data set for execution of our model [Please Load This Dataset before execution of main model / ipynb ]
+	https://drive.google.com/file/d/1-s0wlTV1Mzaqf9NwFwB8Golzhsas4_65/view?usp=sharing
+

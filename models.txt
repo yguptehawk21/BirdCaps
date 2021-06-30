@@ -1,0 +1,13 @@
+CS577 - Project 
+
+Team members:
+Yash Pradeep Gupte
+Namita Sandeep Tambe
+
+MODEL files
+
+1. Capsule Network Model : capsule_cls_model.h5
+	https://drive.google.com/file/d/16PI9X_gBfruPLKm1cl2inWziIRf-gXrp/view?usp=sharing
+
+2. CNN model : cnn_model.h5
+	https://drive.google.com/file/d/1e4_wAGtqSf0o85Lvpsa98PU_sO3kfapl/view?usp=sharing
